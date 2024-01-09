@@ -1,0 +1,19 @@
+Here are some open-source AI summary tools similar to ChatDOC:
+
+1. **Doccano**: Doccano is an open-source text annotation tool that can be used for various natural language processing tasks, including document summarization. It provides an intuitive interface for annotating and labeling text data, making it suitable for training machine learning models for summarization tasks.
+
+2. **Gensim**: Gensim is an open-source Python library for topic modeling and document similarity analysis. It provides algorithms and tools for extracting key topics and generating summaries from large collections of documents.
+
+3. **Sumy**: Sumy is an open-source library for automatic text summarization. It supports various summarization methods, including extractive and abstractive approaches. Sumy can be used to summarize documents, articles, and web pages.
+
+4. **BART**: BART (Bidirectional and Auto-Regressive Transformers) is an open-source model developed by Facebook AI Research. It can be fine-tuned for various natural language processing tasks, including document summarization. BART has achieved state-of-the-art performance in summarization benchmarks.
+
+5. **BERT**: BERT (Bidirectional Encoder Representations from Transformers) is an open-source model developed by Google. While BERT is primarily used for tasks like question answering and sentiment analysis, it can also be adapted for document summarization by fine-tuning the model on summarization datasets.
+
+6. **OpenAI GPT**: OpenAI GPT (Generative Pre-trained Transformer) is an open-source language model that can be used for various natural language processing tasks. It has been used for document summarization by conditioning the model on input documents and generating summaries based on the learned representations.
+
+7. **TextRank**: TextRank is an open-source algorithm for extractive summarization. It uses graph-based ranking algorithms to identify important sentences in a document and generate a summary based on their relevance.
+
+8. **T5**: T5 (Text-to-Text Transfer Transformer) is an open-source model developed by Google Research. It can be fine-tuned for various natural language processing tasks, including document summarization. T5 has achieved state-of-the-art performance in summarization benchmarks.
+
+Please note that these open-source tools may require some technical expertise to set up and use effectively. It's recommended to refer to their respective documentation and GitHub repositories for more information on installation and usage.
